@@ -1,6 +1,8 @@
 /*	Program to reduce Boolean Expression with Min and Max terms using Tabulation method
 	(Currently Valid for 4 variables, i.e., 16 Min or Max terms)
-
+	
+	NOTE : Program is in Beta Version and can only work upto Quads
+	
 	IDE Used  : Visual Studio Community 2017
 	Compiler  : Microsoft Visual C++ Compiler (MSVC)
 	Developer : Shashank Singh
