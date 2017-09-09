@@ -16,3 +16,6 @@ Follow these steps for simplifying Boolean functions using Quine-McClukey tabula
 <b>Step 5</b> − Find the essential prime implicants by observing each column. If the min term is covered only by one prime implicant, then it is essential prime implicant. Those essential prime implicants will be part of the simplified Boolean function.
 
 <b>Step 6</b> − Reduce the prime implicant table by removing the row of each essential prime implicant and the columns corresponding to the min terms that are covered in that essential prime implicant. Repeat step 5 for Reduced prime implicant table. Stop this process when all min terms of given Boolean function are over.
+
+
+<h2><b>Usage</b></h2>
