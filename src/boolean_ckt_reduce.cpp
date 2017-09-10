@@ -5,7 +5,7 @@
 	
 	IDE Used  : Visual Studio Community 2017
 	Compiler  : Microsoft Visual C++ Compiler (MSVC)
-	Developer : Shashank Singh
+	Developer : Shashank Singh (https://github.com/shashank9830)
 */
 #include <iostream>
 #include <stdlib.h>
@@ -276,8 +276,7 @@ void SOP()
 
     //Function to print the reduced expression goes here
 
-	/*
-		NOTE:
+	/*	NOTE:
 		Contributors must try to find a way to change the pair, quad, octet... generation using a recursive function
 	*/
 }
