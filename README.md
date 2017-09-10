@@ -51,7 +51,7 @@ Users can use any other IDE as that supports Compiling and Debugging of C++ sour
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
@@ -65,5 +65,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to [purpleBooth](https://github.com/shashank9830) for the [README-Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+* Thanks to [PurpleBooth](https://github.com/PurpleBooth) for the [README-Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
 * Cheers to all the [contributors](https://github.com/shashank9830/Boolean-CKT-Reducer/contributors) who helped complete the project.
