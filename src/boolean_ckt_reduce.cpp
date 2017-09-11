@@ -152,7 +152,7 @@ void SOP()
         }
     }
 
-    /*  Comparing Groups to create Paris 
+    /*  Comparing Groups to create Pairs 
 
 		The groups[][][] array is used to compare and form pairs if the binary values of the terms being
 		compared differes only by one bit.
