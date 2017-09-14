@@ -1,4 +1,4 @@
-# Boolean-CKT-Reducer
+# Boolean-CKT-Reducer v2.0
 
 ## About
 
