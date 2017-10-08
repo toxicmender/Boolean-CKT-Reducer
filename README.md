@@ -22,9 +22,9 @@ Boolean-CKT-Reducer (Boolean Circuit Reducer) is a console application written i
 
 *The program is in **Beta** version*
 
-## Prerequisites and Deployement
+## Prerequisites and Deployment
 
-*This program is a console application written in C++ and hence needs a C++ compiler to Compile and Run*
+*This program is a console application written in C++ and hence requires a C++ compiler.*
 
 ### 1. Downloading the source file
 
@@ -66,4 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Thanks to [PurpleBooth](https://github.com/PurpleBooth) for the [README-Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
-* Cheers to all the [contributors](https://github.com/shashank9830/Boolean-CKT-Reducer/contributors) who contributed to the project.
